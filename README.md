@@ -14,7 +14,7 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-<iframe src= "https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png/" width="90%" height="650"></iframe>
+![image](https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png/)
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
 As it turns out, my instincts were pretty good. As we'll see below, my final polygon/point map is pretty similar to this one, with that dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
@@ -29,7 +29,7 @@ Barrett and Hamilton had written about the State's systematic reduction of aid t
 
 As it turns out, this reduction applied to all county and municipal governments which, statewide, are only seeing a 55% return of revenue in the form of aid, as compared with 63% in 1996 (and as compared with the 90% "return to origin" goal of the revenue sharing arrangement first put in place in Wisconsin in 1911). I was interested in looking at snapshot for 2015, the most recent year for which data is available, to see how average this 55% average is across the state.
 
-Of course most raw revenue -- and most aid returned -- would be to the more heavily populated areas. But even when normalized by looking at the per capita numbers, I suspected that we'd find a clear correlation between the size of a city, village, or town and the amount of revenue each person can be said to generate. 
+Of course most raw revenue -- and most aid returned -- would be to the more heavily populated areas. But even when normalized by looking at the per capita numbers, I suspected that we'd find a clear correlation between the population density of a city, village, or town and the amount of revenue each person can be said to generate. This scatter chart uses the population number the DOR provides as an imperfect-but-close-enough proxy for density. 
 
 
 
