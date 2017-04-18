@@ -3,7 +3,7 @@
 One Rust-Belt State's Redistribution of Wealth
 
 https://ryanjerving.github.io/follow-the-money/
-By Ryan Jerving, for TrinityX edXcourse Data Visualization for All, Spring 2017 (T005x)
+<p>By Ryan Jerving, for TrinityX course Data Visualization for All, Spring 2017 (T005x)
 
 <iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe> 
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
