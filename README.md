@@ -1,11 +1,12 @@
 # Follow The Money
-## One Rust-Belt State's Redistribution of Wealth
+**One Rust-Belt State's Redistribution of Wealth**
 
 https://ryanjerving.github.io/follow-the-money/
-
 By Ryan Jerving, for TrinityX course Data Visualization for All (T005x), Spring 2017
 
-When we were challenged at the beginning of this course to come up with a "data story" worth telling, I had a pretty good idea that story would be for me. As I wrote to the discussion board:
+### Cities and the Wealth of States
+
+When we were challenged at the beginning of this course to come up with a "data story" worth telling, I had a pretty good idea tof what that story would be for me. As I wrote to the discussion board:
 
 > I live in Milwaukee, Wisconsin: a city that -- like a lot of former Rust Belt industrial powerhouses -- is very challenged these days as it tries to fund all the things its people need (schools, police, parks, garbage pickup, lead pipe mitigation, transit infrastructure, etc.). We also often find ourselves stereotyped by the rest of the state as a drain on shared resources. But, in fact, Milwaukee, like urban areas in general, is a net creator rather than a net taker of tax revenues.[...] 
 
