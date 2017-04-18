@@ -12,12 +12,11 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 > So I'd like to try to visualize this in a way that can effectively make this simple point: cities generate more wealth than they spend. 
 
-And my hand-drawn illustration of how I might make that point visually looked like this:
+My hand-drawn illustration of how I might make that point in a map looked like this:
 
-![alt text](https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png "hey")
-<small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
+![hand-drawn map](https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png "Hand-drawn estimated of State revenue-aid gap across Wisconsin")
 
-As it turns out, my instincts were pretty good. As we'll see below, my final polygon/point map is pretty similar to this one, with that dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
+As it turns out, my instincts weren't terrible. My final polygon map would turn out to look a lot like this one, with its dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
 
 BUT over the course of learning the tools to which we've been introduced and applying them to this questions, there were a couple of surprises in store. First, I was surprised by the power of visualization to crystalize in really vivid form something at which I'd previously only been able to gesture at, vaguely. Second, I was surprised (though maybe I shouldn't have been) by how complicated the data got when looked at on a more than superficial level, and how quickly it became clear that "how (not) to lie with maps" would be an issue.
 
