@@ -1,6 +1,6 @@
 # Follow The Money
 
-One Rust-Belt State's Redistribution of Wealth
+# One Rust-Belt State's Redistribution of Wealth
 
 https://ryanjerving.github.io/follow-the-money/
 <p>By Ryan Jerving, for TrinityX course Data Visualization for All, Spring 2017 (T005x)
