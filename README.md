@@ -14,7 +14,7 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-<iframe src= "https://github.com/ryanjerving/WI-State-Aid-Gap/blob/master/StateRevenueMilwaukeeWisconsin.png"></iframe>
+!(WI-State-Aid-Gap/StateRevenueMilwaukeeWisconsin.png)
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
 I'd read an article recently 
@@ -23,3 +23,5 @@ I'd read an article recently
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
 
 Wisconsin Dept. of Revenue data for 2015 shows a regional disparity in the amount of State revenue collected by county and the amount returned as aid to local governments. Toggling between these two map views reveals, dramatically, how revenue earned in the more urban Southeast third of the state is redistributed to the less urban Northwest third (with the Milwaukee city region seeing a particularly large gap).
+
+ 
