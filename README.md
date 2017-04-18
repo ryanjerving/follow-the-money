@@ -14,7 +14,7 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-<iframe src= "https://edxuploads.s3.amazonaws.com/14889450158499793.png"></iframe>
+<iframe src= "https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png" width="90%" height="650"></iframe>
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
 As it turns out, my instincts were pretty good. As we'll see below, my final polygon/point map is pretty similar to this one, with that dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
@@ -23,7 +23,17 @@ BUT over the course of learning the tools to which we've been introduced and app
 
 ### Revenue and Where To Find It
 
-<iframe scr= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
+I'd thought of this visualization idea after reading an op-ed piece in the *Milwaukee Journal-Sentinel* by our mayor, Tom Barrett, and the president of the city's Common Council, Ashanti Hamilton. (See <a href="http://www.jsonline.com/story/opinion/crossroads/2017/01/28/barrett-hamilton-milwaukee-needs-balanced-state-approach/97196352/">"Milwaukee Needs Balanced State Approach"</a>, Jan. 28, 2017. You'll see my hand-drawn version of their line chart in the image of above) 
+
+Barrett and Hamilton had written about the State's systematic reduction of aid to Milwaukee over a 20-year period, as reported by our State tax collecting body, the Wisconsin Department of Revenue, who annually publish an accounting of the revenues collected and returned by locality. (See Wisconsin Department of Revenue, Division of Research and Policy, "State Taxes and Aids By Municipality and County For Calendar Year 2015," at <a href="https://www.revenue.wi.gov/Pages/Report/s.aspx#state_aids"></a>
+
+As it turns out, this reduction applied to all county and municipal governments which, statewide, are only seeing a 55% return of revenue in the form of aid, as compared with 63% in 1996 (and as compared with the 90% "return to origin" goal of the revenue sharing arrangement first put in place in Wisconsin in 1911). I was interested in looking at snapshot for 2015, the most recent year for which data is available, to see how average this 55% average is across the state.
+
+Of course most raw revenue -- and most aid returned -- would be to the more heavily populated areas. But even when normalized by looking at the per capita numbers, I suspected that we'd find a clear correlation between the size of a city, village, or town and the amount of revenue each person can be said to generate. 
+
+
+
+<iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
 
 Wisconsin Dept. of Revenue data for 2015 shows a regional disparity in the amount of State revenue collected by county and the amount returned as aid to local governments. Toggling between these two map views reveals, dramatically, how revenue earned in the more urban Southeast third of the state is redistributed to the less urban Northwest third (with the Milwaukee city region seeing a particularly large gap).
