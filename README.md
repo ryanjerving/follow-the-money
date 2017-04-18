@@ -14,7 +14,7 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-!(WI-State-Aid-Gap/StateRevenueMilwaukeeWisconsin.png)
+!(https://edxuploads.s3.amazonaws.com/14889450158499793.png)
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
 I'd read an article recently 
