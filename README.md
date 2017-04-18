@@ -14,8 +14,14 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-<iframe src= "https://edxuploads.s3.amazonaws.com/14889450158499793.png" width="90%" height="650"></iframe>
+<iframe src= "https://edxuploads.s3.amazonaws.com/14889450158499793.png"></iframe>
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
+
+As it turns out, my instincts were pretty good. As we'll see below, my final polygon/point map is pretty similar to this one, with that dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
+
+BUT over the course of learning the tools to which we've been introduced and applying them to this questions, there were a couple of surprises in store. First, I was surprised by the power of visualization to crystalize in really vivid form something at which I'd previously only been able to gesture at, vaguely. Second, I was surprised (though maybe I shouldn't have been) by how complicated the data got when looked at on a more than superficial level, and how quickly it became clear that "how (not) to lie with maps" would be an issue.
+
+### Revenue and Where To Find It
 
 <iframe scr= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
