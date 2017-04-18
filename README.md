@@ -14,7 +14,7 @@ When we were challenged at the beginning of this course to come up with a "data 
 
 And my hand-drawn illustration of how I might make that point visually looked like this:
 
-<iframe src= "https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png" width="90%" height="650"></iframe>
+<iframe src= "https://raw.githubusercontent.com/ryanjerving/WI-State-Aid-Gap/master/StateRevenueMilwaukeeWisconsin.png/" width="90%" height="650"></iframe>
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
 As it turns out, my instincts were pretty good. As we'll see below, my final polygon/point map is pretty similar to this one, with that dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
