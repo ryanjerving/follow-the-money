@@ -17,6 +17,8 @@ And my hand-drawn illustration of how I might make that point visually looked li
 <iframe src= "https://edxuploads.s3.amazonaws.com/14889450158499793.png" width="90%" height="650"></iframe>
 <small>*My hand-drawn map of revenue redistribution in Wisconsin*</small>
 
+
+ff
 I'd read an article recently 
 
 <iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe> 
