@@ -35,6 +35,8 @@ But to see how "average" this 55% average was across the state, I created this s
 
 It shows about what you'd expect: that the more populous of Wisconsin's 72 counties produce more State revenue to collect. But this doesn't tell us much about any statewide patterns, particularly if you're not intimately familiar with where places like Outgamie or Ozaukee counties are!
 
+### Go West, Young Money!
+
 A better illustration of where the money comes from and then where it goes can be seen in the following polygon map, to which, for context, I've added points for any cities with a population of more than 50,000.
 
 <iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
@@ -48,4 +50,6 @@ However, the project raised more questions than it answered for me as it quickly
 
 1. It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which would change the rural/urban balance we see here.
 2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work. 
-3. Finally, there were limits that the availability of the data itself placed on me. I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia!"
+3. Finally, there were limits that the availability of the data itself placed on me. 
+..1. I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). 
+..2. Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia!"
