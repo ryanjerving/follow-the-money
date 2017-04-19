@@ -51,7 +51,8 @@ The pattern is starker than I'd expected from just spot-checking the numbers alo
 However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculated was actually quite messy.
 
 1. It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which would change the rural/urban balance we see here.
-2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work. 
+2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work.
+3. Other revenues where allocated according to residential population distribution rather than where they were collected or generated: again this could skew against urban areas for some kinds of revenue (e.g. sales tax) and against rural for others (fishing/hunting licenses).
 
 Finally, there were limits that the availability of the data itself placed on me. 
 + I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). 
