@@ -56,6 +56,6 @@ However, the project raised more questions than it answered for me as it quickly
 
 Finally, there were limits that the availability of the data itself placed on me. 
 + I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). Maps and charts can "lie" sometimes because they skew toward the easier stuff to get.
-+ Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all one thousand nine hundred and thirteen Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that many municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia" in it somewhere! Maybe next time...
++ Similarly, I made counties the basis of my comparison rather than the more granular municipalities because geocoding all one thousand nine hundred and thirteen Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that many municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia" in it somewhere! Maybe next time...
 
 ---
