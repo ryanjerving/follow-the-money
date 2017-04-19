@@ -44,7 +44,9 @@ A better illustration of where the money comes from and then where it goes can b
 
 Toggling between the revenue/aid views offers a surprisingly compelling visualization of this data. It shows a pretty stark regional disparity between the urban Southeast third of the state where revenue is disproportionately generated and the less urban Northwest third to which the aid is disproportionately distributed. (One notable exception to this pattern of aid is the deep purple Rock County you'll see along the southern border with Illinois: home to the U.S. Congress's Speaker of the House -- and Janesville's own -- Paul Ryan!) 
 
-The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of data. 
+### Takeaways and Limitations
+
+The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of visualization. 
 
 However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculated was actually quite messy.
 
