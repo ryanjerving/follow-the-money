@@ -19,7 +19,7 @@ My hand-drawn illustration of how I might make that point in a map looked like t
 
 As it turns out, my instincts weren't terrible. My final polygon map would turn out to look a lot like this one, with its dark green crosshatching at the southeast corner of the state representing the Milwaukee-Waukesha-Madison corner flinging money into the Bon Iver hinterland of the driftless West and the Northwoods.
 
-BUT over the course of learning the tools to which we've been introduced and applying them to this questions, there were a couple of surprises in store. First, I was surprised by the power of visualization to crystalize in really vivid form something at which I'd previously only been able to gesture at, vaguely. Second, I was surprised (though maybe I shouldn't have been) by how complicated the data got when looked at on a more than superficial level, and how quickly it became clear that "how (not) to lie with maps" would be an issue.
+BUT over the course of learning the tools to which we've been introduced and applying them to this question, there were a couple of surprises in store. First, I was surprised by the power of visualization to crystalize in really vivid form something at which I'd previously only been able to gesture at, vaguely. Second, I was surprised (though maybe I shouldn't have been) by how complicated the data got when looked at on a more than superficial level, and how quickly it became clear that "how (not) to lie with maps" would be an issue.
 
 ### Revenue and Where To Find It
 
@@ -29,7 +29,7 @@ Barrett and Hamilton had written about the State's systematic reduction of aid t
 
 As it turns out, this reduction has hit local governments statewide: counties and municipalities are only seeing a 55% return of revenue as aid, as compared with 63% in 1996 (and as compared with the 90% "return to origin" goal of the revenue sharing arrangement first put in place in Wisconsin in 1911). 
 
-But to see how "average" this 55% average was across the state, I created this scatter plot snapshot to normalize revenue collected on a per capita basis for 2015, the most recent year for which data is available. 
+But to see how "average" this 55% average might be across the state, I created this scatter plot snapshot to normalize revenue collected on a per capita basis for 2015, the most recent year for which data is available. 
 
 <iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/index.html" width="90%" height="450"></iframe>
 
@@ -39,10 +39,10 @@ It shows about what you'd expect: that the more populous of Wisconsin's 72 count
 
 A better illustration of where the money comes from and then where it goes can be seen in the following polygon map, to which, for context, I've added points for any cities with a population of more than 50,000.
 
-<iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
+<iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="750"></iframe>
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
 
-Toggling between the revenue/aid views offers a surprisingly compelling visualization of this data. It shows a pretty stark regional disparity between the urban Southeast third of the state where revenue is disproportionately generated and the less urban Northwest third to which the aid is disproportionately distributed. (One notable exception to this pattern of aid is the deep purple Rock County you'll see along the southern border with Illinois: home to the U.S. Congress's Speaker of the House -- and Janesville's own -- Paul Ryan!) 
+Toggling between the revenue/aid views offers a surprisingly compelling visualization of this data. It shows a pretty stark regional disparity between the urban Southeast third of the state where revenue is disproportionately generated and the less urban Northwest third to which the aid is disproportionately distributed. (One notable exception to this pattern of aid distribution is the deep purple Rock County you'll see along the southern border with Illinois: home to the U.S. Congress's Speaker of the House -- and Janesville's own -- Paul Ryan!) 
 
 ### Takeaways and Limitations
 
@@ -52,6 +52,7 @@ However, the project raised more questions than it answered for me as it quickly
 
 1. It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which would change the rural/urban balance we see here.
 2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work. 
-3. Finally, there were limits that the availability of the data itself placed on me. 
-..1. I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). 
-..2. Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia!"
+
+Finally, there were limits that the availability of the data itself placed on me. 
++ I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). 
++ Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia!"
