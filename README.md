@@ -30,15 +30,25 @@ As it turns out, this reduction applied to all county and municipal governments 
 
 I created a scatter chart that shows about what you'd expect: that even when normalized on a per capita basis, the more populous of Wisconsin's 72 counties produce more State revenue to collect...
 
-<iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/index" width="90%" height="450"></iframe>
+<iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/index.html" width="90%" height="450"></iframe>
 
 ...but this doesn't tell us much about any statewide patterns, particularly if you're not intimately familiar with where Outgamie or Ozaukee counties are!
 
-
+A better illustration of where the money comes from and then where it goes can be seen in the following polygon map, to which, for context, I've added points for any cities with a population of more than 50,000.
 
 <iframe src= "https://ryanjerving.github.io/WI-State-Aid-Gap/" width="90%" height="650"></iframe>
 <small><em>View full size at <a href="https://ryanjerving.github.io/WI-State-Aid-Gap/">WI State Aid Gap</a></em></small>
 
-Wisconsin Dept. of Revenue data for 2015 shows a regional disparity in the amount of State revenue collected by county and the amount returned as aid to local governments. Toggling between these two map views reveals, dramatically, how revenue earned in the more urban Southeast third of the state is redistributed to the less urban Northwest third (with the Milwaukee city region seeing a particularly large gap).
+Toggling between the revenue/aid views offers a surprisingly compelling visualization of this data. It shows a pretty stark regional disparity between the urban Southeast third of the state where revenue is disproportionately generated and the less urban Northwest third to which the aid is disproportionately distributed. (One notable exception to this pattern of aid is the deep purple Rock County you'll see along the southern border with Illinois: home to the U.S. Congress's Speaker of the House -- and Janesville's own -- Paul Ryan!) 
+
+The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of data. 
+
+However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculated was actually quite messy.
+
+1) It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which would change the rural/urban balance we see here.
+2) The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work. 
+3) Finally, there were limits that the availability of the data itself placed on me. I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield"!
+
+
 
  
