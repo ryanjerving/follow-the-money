@@ -46,16 +46,16 @@ Toggling between the revenue/aid views offers a surprisingly compelling visualiz
 
 ### Takeaways and Limitations
 
-The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of visualization. Watching the purple do its mirror flip across the Wisconsin River was an eye opener.
+The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of visualization. Watching the purple do its mirror flip across the Fox and Wisconsin Rivers was an eye opener.
 
-However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculated was actually quite messy.
+However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculation was actually quite messy and would demand further research and more sophisticated visualization.
 
-1. It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which would change the rural/urban balance we see here.
-2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem is clear with the ring counties of Waukesha, Washington, and Ozaukee that surround Milwaukee County, where many of those people work.
-3. Other revenues where allocated according to residential population distribution rather than where they were collected or generated: again this could skew against urban areas for some kinds of revenue (e.g. sales tax) and against rural for others (fishing/hunting licenses).
+1. It doesn't account for all kinds of aid -- most notably, aid to individuals such as healthcare, welfare, or farm subidies, any of which could change the rural/urban balance we see here.
+2. The income tax portion of the revenue was attributed according to where the filer lived rather than where the tax was actually collected -- a fact that skews the numbers toward bedroom commuter counties and away from the metro centers where the wealth is actually generated. This problem shows up in both the map and the scatter chart with the outlier ring counties of Waukesha d Ozaukee that surround Milwaukee County, where many of those people work, and whose revenue impact is muted here.
+3. Other revenues are allocated by the Dept. of Revenue according to residential population distribution rather than according to where they are collected or generated: again this could skew against urban areas for some kinds of revenue (e.g. sales tax) and against rural for others (fishing/hunting licenses).
 
 Finally, there were limits that the availability of the data itself placed on me. 
-+ I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). 
-+ Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all 1,913 Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that some municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia!"
++ I went with a snapshot of 2015 rather than a longitudinal look over time and did so, frankly, because the Wisconsin Dept. of Revenue only had spreadsheet versions of the data available for the most recent two years (only PDFs before that, and only back to 2007). Maps and charts can "lie" sometimes because they skew toward the easier stuff to get.
++ Similarly, I made counties rather than the more granular municipalities the basis of my comparison because geocoding all one thousand nine hundred and thirteen Wisconsin cities, towns, and villages was going to be a logistical nightmare -- especially given that many municipalities are split between counties and that every single county in Wisconsin seems to have a "Holland" and a "Greenfield" and a "Caledonia" in it somewhere! Maybe next time...
 
 ---
