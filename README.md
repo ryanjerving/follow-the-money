@@ -46,7 +46,7 @@ Toggling between the revenue/aid views offers a surprisingly compelling visualiz
 
 ### Takeaways and Limitations
 
-The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of visualization. 
+The pattern is starker than I'd expected from just spot-checking the numbers alone, and is a testament to the power of visualization. Watching the purple do its mirror flip across the Wisconsin River was an eye opener.
 
 However, the project raised more questions than it answered for me as it quickly became clear how this seemingly straightforward revenue-collected-vs-aid-distributed calculated was actually quite messy.
 
