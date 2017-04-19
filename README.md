@@ -26,9 +26,13 @@ I'd thought of this visualization idea after reading an op-ed piece in the *Milw
 
 Barrett and Hamilton had written about the State's systematic reduction of aid to Milwaukee over a 20-year period, as reported by our State tax collecting body, the Wisconsin Department of Revenue, who annually publish an accounting of the revenues collected and returned by locality. (See Wisconsin Department of Revenue, Division of Research and Policy, "State Taxes and Aids By Municipality and County For Calendar Year 2015," at <a href="https://www.revenue.wi.gov/Pages/Report/s.aspx#state_aids">https://www.revenue.wi.gov/Pages/Report/s.aspx#state_aids</a>
 
-As it turns out, this reduction applied to all county and municipal governments which, statewide, are only seeing a 55% return of revenue in the form of aid, as compared with 63% in 1996 (and as compared with the 90% "return to origin" goal of the revenue sharing arrangement first put in place in Wisconsin in 1911). I was interested in looking at snapshot for 2015, the most recent year for which data is available, to see how average this 55% average is across the state.
+As it turns out, this reduction applied to all county and municipal governments which, statewide, are only seeing a 55% return of revenue in the form of aid, as compared with 63% in 1996 (and as compared with the 90% "return to origin" goal of the revenue sharing arrangement first put in place in Wisconsin in 1911). I was interested in looking at snapshot for 2015, the most recent year for which data is available, to see how "average" this 55% average is across the state. 
 
-Of course most raw revenue -- and most aid returned -- would be to the more heavily populated areas. But even when normalized by looking at the per capita numbers, I suspected that we'd find a clear correlation between the population density of a city, village, or town and the amount of revenue each person can be said to generate. This scatter chart uses the population number the DOR provides as an imperfect-but-close-enough proxy for density. 
+I created a scatter chart that shows about what you'd expect: that even when normalized on a per capita basis, the more populous of Wisconsin's 72 counties produce more State revenue to collect...
+
+<iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/index.html" width="90%" height="450"></iframe>
+
+...but this doesn't tell us much about any statewide patterns, particularly if you're not intimately familiar with where Outgamie or Ozaukee counties are!
 
 
 
