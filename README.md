@@ -30,7 +30,7 @@ As it turns out, this reduction applied to all county and municipal governments 
 
 I created a scatter chart that shows about what you'd expect: that even when normalized on a per capita basis, the more populous of Wisconsin's 72 counties produce more State revenue to collect...
 
-<iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/" width="90%" height="450"></iframe>
+<iframe src= "https://ryanjerving.github.io/highcharts-scatter-WI-pop-rev/index" width="90%" height="450"></iframe>
 
 ...but this doesn't tell us much about any statewide patterns, particularly if you're not intimately familiar with where Outgamie or Ozaukee counties are!
 
